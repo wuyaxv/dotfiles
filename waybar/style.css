@@ -1,0 +1,10 @@
+.default {
+    font-family: "Comic Code", "Font Awesome 6 Pro", monospace;
+    font-size: 14px;
+    color: #ffffff;
+    background-color: transparent;
+}
+
+#workspaces button.active {
+    background-color: #aaeebb;
+}
